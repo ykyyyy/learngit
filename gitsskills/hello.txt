@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+hello my world!
+=======
+hello world!
+I love my world.
+>>>>>>> 11e2816... love my world
